@@ -11,7 +11,8 @@ class tupla{
     public:
         tupla();
         int getID();
-        void setID( int ID );
+        void setID(  );
+        void setID( int );
         void setAtributo( string );
         void setAtributos( vector<string> );
         vector<string> getAtributos();

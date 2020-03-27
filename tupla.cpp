@@ -1,4 +1,6 @@
 #include "tupla.hpp"
+#include <time.h>
+#include <stdlib.h>
 
 tupla::tupla(){}
 
@@ -10,7 +12,12 @@ void tupla::setAtributos( vector<string> atributos ){
     this->atributos = atributos;
 }
 
-void tupla::setID( int ID ){
+void tupla::setID( ){
+    srand( time( NULL ) );
+    ID = 1000 + rand() % ( 9999 );
+}
+
+void tupla::setID( int ID){
     this->ID = ID;
 }
 
