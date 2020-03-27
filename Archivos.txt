@@ -6,3 +6,6 @@ Prueba2.txt
 Prueba3.txt
 Prueba4.txt
 Estudiantes.txt
+Finalizado.txt
+Churros.txt
+Churros.txt

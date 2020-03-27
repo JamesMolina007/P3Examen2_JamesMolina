@@ -1,1 +1,2 @@
 Fruta;Animal;Cosa;
+1520;Manzana;Mono;Metralleta;

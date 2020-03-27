@@ -1,0 +1,2 @@
+Inicio;Fin;
+9004;Fin;Inicio;
